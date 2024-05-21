@@ -1,0 +1,19 @@
+{
+  "name": "HWall",
+  "type": "static",
+  "description": "This is a static wall used to construct mazes.",
+  "shape": [
+    { "x": -20, "y": 1 }, 
+    { "x": 20, "y": 1 },
+    { "x": 20, "y": -1 },
+    { "x": -20, "y": -1 }
+],
+  "friction": {
+    "collision": 5,
+    "linear": 40,
+    "rotational": 600
+  },
+  "sensors": [],
+  "mass": 1,    
+  "controller": "lib/h_wall.so"
+}

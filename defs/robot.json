@@ -1,0 +1,20 @@
+{
+    "name": "Robot",
+    "type": "dynamic",
+    "description": "A robot that will be placed in the maze",
+    "shape": [
+        { "x": -5, "y": 5 },
+        { "x": 5, "y": 5 },
+        { "x": 7, "y": 0 },
+        { "x": 5, "y": -5 },
+        { "x": -5, "y": -5 }
+    ],
+    "friction": {
+      "collision": 0.5,
+      "linear": 10,
+      "rotational": 100
+    },
+    "sensors": [],
+    "mass": 1,    
+    "controller": "lib/robot.so"
+}
