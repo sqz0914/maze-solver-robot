@@ -23,7 +23,7 @@ The Maze Solver Robot project is an engaging application designed to navigate a 
 
 ### 5. Robot Path Following
 - **Challenge**: Making the robot follow the calculated path.
-- **Solution**: Initially, the plan was to use sensors to keep the robot follow the directions of the shortest path. However, this approach was not ideal. The final solution involved passing the path's coordinates directly to the robot, using the `move_forward` function for navigation.
+- **Solution**: Initially, the plan was to use sensors to keep the robot follow the directions of the shortest path. However, this approach was not ideal. The final solution involved passing the path's coordinates directly to the robot, using the `move_toward` function for navigation.
 
 ## Installation and Running the Code
 
