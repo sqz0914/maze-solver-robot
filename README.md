@@ -37,7 +37,7 @@ The Maze Solver Robot project is an engaging application designed to navigate a 
    ```
 2. **Navigate to the project folder**:
     ```sh
-    cd final_project
+    cd maze-solver-robot
     ```
 3. **Run docker and mount the folder to docker**:
    ```sh
