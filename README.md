@@ -33,7 +33,7 @@ The Maze Solver Robot project is an engaging application designed to navigate a 
 ### Steps
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/sqz0914/520-Assignments.git
+   git clone https://github.com/sqz0914/maze-solver-robot.git
    ```
 2. **Navigate to the project folder**:
     ```sh
